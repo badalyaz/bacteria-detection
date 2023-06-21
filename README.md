@@ -1,6 +1,4 @@
 # Bacteria Detection
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 ![Pipeline](examples/.resources/pipeline.gif)
 The goal of the project is to get the bacteria count from multiple continuously pictured frames for a single area. Currently, the best results in terms of time and accuracy are with [YOLOv5 object detection model](https://github.com/ultralytics/yolov5).
 
